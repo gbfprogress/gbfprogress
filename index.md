@@ -8,7 +8,7 @@ The focus of this guide is to present what we believe are correct opinions on ho
     {% for item in site.data.pages.toc %}
     <h2>{{ item.title }}</h2>
         {% for entry in item.subfolderitems %}
-            <a href="{{ entry.url }}">{{ entry.title }}</a>
+            <p><a href="{{ entry.url }}">{{ entry.title }}</a></p>
         {% endfor %}
     {% endfor %}
 </div>
