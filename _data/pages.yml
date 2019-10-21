@@ -24,7 +24,7 @@ toc:
   - title: Item Usage
     subfolderitems:
       - title: Sunstone Usage
-        url: resource_usage/sunstone.md
+        url: resource_usage/sunstone.html
   - title: Endgame Raid Farm Setups
     subfolderitems:
       - title: UBHL Neglected Hunt
