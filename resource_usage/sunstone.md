@@ -4,7 +4,7 @@ Sunstones are one of the most valuable and time-gated gbf items. There is no way
 
 ### Core: Arcarum damage summons
 
-These are important progression, often more worthwhile than primals because its only one stone for 5% extra seraphic mod and the ability to make an evoker corresponding to that summon.
+These are important progression, often more worthwhile than primals because its only one stone for 5% extra seraphic mod and the ability to make an evoker corresponding to that summon. You generally only need these by the day that GW starts, though - so you can plan accordingly.
 
 ### Top Tier: Primal Summons with Free Grids
 
