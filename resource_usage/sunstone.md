@@ -27,6 +27,14 @@ To get the most bang for sunstones its best to use them in an element you are al
 
 Primarchs are still good sunstone usage, even if you are playing magna. This is especially true in GW which tends to be easier to cap (particularly during buff hours).
 
+## Mid-Low Tier: Lucifer and Bahamut
+
+Lucifer and Bahamut are in a grey area where most of the time they are not worth sunstoning but if you have a surplus of sunstones and no higher priority summons to use them on, you could consider it. You may want to keep a buffer until you roll any primal summons that you could use.
+
+## Low Tier: Any Shiva-tier summon
+
+These aren't worth stoning right now - its better to use primal main (gives more flexibility) and if you need to use them you could just use them at 0*.
+
 ## Low Tier: Any suptixable summon
 
 Generally its better to just save your sunstones up and ticket duplicates of the summon in the long run.
