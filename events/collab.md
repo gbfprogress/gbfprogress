@@ -1,6 +1,6 @@
 # Collabs
 
-Collabs typically follow the same format as a [rerun](events/rerun.md), but have FLB-able weapons and summons and as such may be worth keeping. Always check.
+Collabs typically follow the same format as a [rerun](/rerun.md), but have FLB-able weapons and summons and as such may be worth keeping. Always check.
 
 Highest priority (timegated):
 - Arcarum points
