@@ -21,6 +21,10 @@ toc:
         url: events/rerun.html
       - title: Collabs
         url: events/collab.html
+  - title: Item Usage
+    subfolderitems:
+      - title: Sunstone Usage
+      - url: resource_usage/sunstone.md
   - title: Endgame Raid Farm Setups
     subfolderitems:
       - title: UBHL Neglected Hunt
