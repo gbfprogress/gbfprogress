@@ -2,28 +2,28 @@ toc:
   - title: Early game
     subfolderitems:
       - title: Creating an account
-        url:  /account_creation.html
+        url: account_creation.html
       - title: Rank 1-30
-        url: /rank_1_30.html
+        url: rank_1_30.html
       - title: Joining your first crew
-        url: /early_crew_selection.html
+        url: early_crew_selection.html
       - title: T3 Class Progression
-        url: /t3_class_progression.html
+        url: t3_class_progression.html
   - title: Early HL
     subfolderitems:
       - title: Magna2 Farm
-        url:  /magna2_farm.html
+        url:  magna2_farm.html
   - title: Event Guidelines
     subfolderitems:
       - title: Boxing Events
-        url: /events/boxing.html
+        url: events/boxing.html
       - title: Reruns
-        url: /events/rerun.html
+        url: events/rerun.html
       - title: Collabs
-        url: /events/collab.html
+        url: events/collab.html
   - title: Endgame Raid Farm Setups
     subfolderitems:
       - title: UBHL Neglected Hunt
-        url: /ubhl_neglected_hunt.html
+        url: ubhl_neglected_hunt.html
       - title: Tiamat Malice Neglected Hunt
-        url: /tiamalice_neglected_hunt.html
+        url: tiamalice_neglected_hunt.html
