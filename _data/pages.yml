@@ -2,11 +2,11 @@ toc:
   - title: Early game
     subfolderitems:
       - title: Creating an account
-        url:  account_creation.html
+        url:  /account_creation.html
       - title: Rank 1-30
-        url: rank_1_30.html
+        url: ./rank_1_30.html
       - title: Joining your first crew
-        url: early_crew_selection.html
+        url: //early_crew_selection.html
       - title: T3 Class Progression
         url: t3_class_progression.html
   - title: Early HL
