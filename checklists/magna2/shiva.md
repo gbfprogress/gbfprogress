@@ -1,5 +1,5 @@
 # Shiva Checklist
-![Image of Shiva Raid](https://gbf.wiki/images/7/73/BattleRaid_Shiva_Impossible.png)
+![Image of Shiva Raid](/images/BattleRaid_Shiva_Impossible.png)
 ## Colossus FLB
 Top priority to complete
 
