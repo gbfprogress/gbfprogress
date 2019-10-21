@@ -17,7 +17,7 @@ One could also consider Varuna to have a decent free primal grid, but it isn't a
 
 ### Top Tier: Any primal summon you have a grid for
 
-Self explanatory. If you have the grid and have already decided that you are willing to invest the [damascus bars or gold bars](resource_usage/bar.md) then you may as well just sunstone the primal.
+Self explanatory. If you have the grid and have already decided that you are willing to invest the [damascus bars or gold bars](resource_usage/damascus.md) then you may as well just sunstone the primal.
 
 ### Mid-Top Tier: Any Primarch in an element you have stoned the Primal
 
