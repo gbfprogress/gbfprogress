@@ -29,7 +29,7 @@
                 <h3>{{ item.title }}</h3>
                   <ul>
                     {% for entry in item.subfolderitems %}
-                      <li><a href="/gbfprogress{{ entry.url }}">{{ entry.title }}</a></li>
+                      <li><a href="/gbfprogress/{{ entry.url }}">{{ entry.title }}</a></li>
                     {% endfor %}
                   </ul>
               {% endfor %}
