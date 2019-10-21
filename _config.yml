@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
 relative_links:
-  enabled: false
+  enabled: true
   collections: false
 include:
   - CONTRIBUTING.md
