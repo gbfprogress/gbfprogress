@@ -9,6 +9,12 @@ toc:
         url: early_crew_selection.html
       - title: T3 Class Progression
         url: t3_class_progression.html
+  - title: Fundamentals
+    subfolderitems:
+      - title: Grids
+        url: fundamentals/grid.html
+      - title: DPS and DPT
+        url: fundamentals/dps_and_dpt.html
   - title: Early HL
     subfolderitems:
       - title: Magna2 Farm
